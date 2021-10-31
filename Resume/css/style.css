@@ -1,0 +1,30 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.out {
+  width: 700px;
+  height: 900px;
+  border: 1px solid black;
+  margin: 2px auto;
+}
+.in {
+  width: 700px;
+  height: 800px;
+  border: 1px solid black;
+  margin: 2px auto;
+}
+
+.out h1 {
+  text-align: center;
+}
+p {
+  font-size: 17px;
+}
+.border {
+  width: 98%;
+  padding: 5px;
+  background-color: rgb(218, 233, 233);
+  border: 1px solid black;
+  font-weight: bold;
+}
